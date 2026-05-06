@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [KevinNet_Windows_x64](./KevinNet_Windows_x64)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
