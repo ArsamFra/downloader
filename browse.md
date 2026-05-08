@@ -3,3 +3,4 @@
 - [https___youtube_com (20260501_150854)](pages/youtube.com/https___youtube_com/20260501_150854/index.md) — 5 media files
 - [https___www_google_com_url_sa_t_rct_j_q__esrc_s_source_web_cd__cad_rja_uact_8_ved_2ahUKEwjQoKr876mUA (20260508_141412)](pages/google.com/https___www_google_com_url_sa_t_rct_j_q__esrc_s_source_web_cd__cad_rja_uact_8_ved_2ahUKEwjQoKr876mUA/20260508_141412/index.md) — 0 media files
 - [https___www_google_com_url_sa_t_rct_j_q__esrc_s_source_web_cd__cad_rja_uact_8_ved_2ahUKEwjAnpvF8KmUA (20260508_141653)](pages/google.com/https___www_google_com_url_sa_t_rct_j_q__esrc_s_source_web_cd__cad_rja_uact_8_ved_2ahUKEwjAnpvF8KmUA/20260508_141653/index.md) — 0 media files
+- [https___edition_cnn_com (20260508_142037)](pages/edition.cnn.com/https___edition_cnn_com/20260508_142037/index.md) — 2 media files
